@@ -48,6 +48,7 @@ instalar o TinyTeX:
 `
 install.packages('tinytex')
 tinytex::install_tinytex()
+`
 
 Para desinstalar o TinyTeX, run:
 `tinytex::uninstall_tinytex()`
