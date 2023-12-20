@@ -34,7 +34,7 @@ Pandoc: https://pandoc.org/installing.html
 
 baixar versão do https://github.com/jgm/pandoc/releases/tag/3.1.11
 
-qual versão baixar: pandoc-3.1.11-windows-x86_64.msi
+qual versão baixar: `pandoc-3.1.11-windows-x86_64.msi`
  baixar o tipo .msi para facilitar a instalação.
 
 verifique o local onde foi instalado. Normalmente fica na pasta
