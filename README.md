@@ -49,8 +49,8 @@ instalar o TinyTeX:
 install.packages('tinytex')
 tinytex::install_tinytex()
 
-Para Instalar o TinyTeX, run:
-` tinytex::uninstall_tinytex()`
+Para desinstalar o TinyTeX, run:
+`tinytex::uninstall_tinytex()`
 
 Para compilar um documento LaTeX para PDF, chame uma destas funções (dependendo do mecanismo LaTeX que você deseja usar) em tinytex: pdflatex(), xelatex() e lualatex(). Quando essas funções detectam pacotes LaTeX necessários, mas não instalados no TinyTeX, elas instalarão automaticamente os pacotes ausentes por padrão.
 `
